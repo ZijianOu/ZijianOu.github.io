@@ -1,0 +1,26 @@
+/* CSS Style */
+html{
+		background: url(../images/r50.jpg) no-repeat center center fixed; 
+  	-webkit-background-size: cover; 
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+}
+body{
+	font-family: Arial;
+	color: red;
+}
+#mainContainer{
+	position: relative;
+	left: 730px
+}
+a{
+	color:white;
+	text-decoration: none;
+
+}
+
+.menu-links{
+
+	font-size:25px;
+}

@@ -1,0 +1,29 @@
+/* CSS Style */
+html{
+		background: url(../images/lights.jpg) no-repeat center center fixed; 
+  	-webkit-background-size: cover; 
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+}
+body{
+	font-family: Arial;
+	color: red;
+}
+#mainContainer{
+	position: center;
+
+}
+p{
+	color: white;
+}
+  	a{
+  		font-family: Arial;
+	color:white;
+	text-decoration: none;
+
+}
+.menu-links{
+
+	font-size:25px;
+}

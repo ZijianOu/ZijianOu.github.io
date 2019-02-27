@@ -1,0 +1,43 @@
+/* CSS Styles */
+
+html {
+	background: url(../images/gtr.jpg) no-repeat center fixed; 
+  	-webkit-background-size: cover; 
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+}
+
+body{
+	font-family: Arial;
+	color: red;
+}
+
+a{
+	color:white;
+	text-decoration: none;
+
+}
+
+.menu-links{
+
+	font-size:25px;
+}
+#mainContainer{
+	position: sticky;
+	shape-margin: all;
+}
+.up{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: all;
+  width: 50%;
+ }
+ .bottom{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: all;
+  width: 50%;
+ }
